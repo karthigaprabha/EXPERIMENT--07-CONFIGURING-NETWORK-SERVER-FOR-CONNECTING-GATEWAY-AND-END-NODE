@@ -58,6 +58,6 @@ To set APP Key
 ## OUTPUT 
 
 
-## Results: 
+## Result: 
 
   The Network server and end device for transferring data on the network has been accomplished.
